@@ -2,7 +2,7 @@
 Here is a list of C++ STL functions that begin with the prefix "is":
 
 isalnum(): checks if a character is alphanumeric.
-isalpha(): checks if a character is alphabetic.
+isalpha(): checks if a character is alphabetic.  //(isalpha     [a------z othoba  A----Z othoba  +,-,*,/)
 isblank(): checks if a character is blank (either a space or a tab).
 iscntrl(): checks if a character is a control character.
 isdigit(): checks if a character is a digit.
